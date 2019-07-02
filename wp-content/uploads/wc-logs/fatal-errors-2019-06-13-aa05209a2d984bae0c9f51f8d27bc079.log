@@ -1,0 +1,22 @@
+2019-06-13T22:32:21+00:00 CRITICAL Uncaught Exception: variable in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/wc-template-functions.php:1497
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): woocommerce_template_single_add_to_cart('')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-content/themes/flatsomes/woocommerce/single-product/layouts/product.php(30): do_action('woocommerce_sin...')
+#4 /opt/lampp/htdocs/oxiumprint/wp-includes/template.php(706): require('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/opt/lampp/htdo...', false)
+#6 /opt/lampp/htdocs/oxiumprint/wp-content/themes/flatsomes/woocommerce/content-single-product.php(39): wc_get_template_part('single-product/...', NULL)
+#7 /opt/lampp/htdocs/oxiumprint/wp-includes
+
+2019-06-13T22:37:42+00:00 CRITICAL Uncaught Exception: variable in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/wc-template-functions.php:1497
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): woocommerce_template_single_add_to_cart('')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-content/themes/flatsomes/woocommerce/single-product/layouts/product.php(30): do_action('woocommerce_sin...')
+#4 /opt/lampp/htdocs/oxiumprint/wp-includes/template.php(706): require('/opt/lampp/htdo...')
+#5 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/wc-core-functions.php(179): load_template('/opt/lampp/htdo...', false)
+#6 /opt/lampp/htdocs/oxiumprint/wp-content/themes/flatsomes/woocommerce/content-single-product.php(39): wc_get_template_part('single-product/...', NULL)
+#7 /opt/lampp/htdocs/oxiumprint/wp-includes
+

@@ -1,0 +1,12 @@
+[08-Feb-2019 14:31:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/twentysixteen/404.php on line 10
+[22-Feb-2019 07:11:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 00:07:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/twentysixteen/404.php on line 10

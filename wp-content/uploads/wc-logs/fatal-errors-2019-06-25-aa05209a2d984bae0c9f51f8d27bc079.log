@@ -1,0 +1,124 @@
+2019-06-25T22:57:32+00:00 CRITICAL Uncaught Exception: la re concha de tu madre oxium print in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:43
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(121): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install(false)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/includes/plugin.php(660): do_action('activate_coode-...', false)
+#5 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(44): activate_plugin('coode-price-cal...', 'http://localhos...', false)
+#6 {main}
+  thrown
+
+2019-06-25T22:57:35+00:00 CRITICAL Uncaught Exception: la re concha de tu madre oxium print in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:43
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(121): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(177): do_action('activate_coode-...')
+#5 {main}
+  thrown
+
+2019-06-25T22:57:35+00:00 CRITICAL Uncaught Exception: la re concha de tu madre oxium print in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:43
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(121): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(177): do_action('activate_coode-...')
+#5 {main}
+  thrown
+
+2019-06-25T23:26:41+00:00 CRITICAL Uncaught Error: Call to undefined function dbDelta() in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:46
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(122): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install(false)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/includes/plugin.php(660): do_action('activate_coode-...', false)
+#5 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(44): activate_plugin('coode-price-cal...', 'http://localhos...', false)
+#6 {main}
+  thrown
+
+2019-06-25T23:26:46+00:00 CRITICAL Uncaught Error: Call to undefined function dbDelta() in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:46
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(122): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(177): do_action('activate_coode-...')
+#5 {main}
+  thrown
+
+2019-06-25T23:26:46+00:00 CRITICAL Uncaught Error: Call to undefined function dbDelta() in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:46
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(122): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(177): do_action('activate_coode-...')
+#5 {main}
+  thrown
+
+2019-06-25T23:31:13+00:00 CRITICAL Uncaught Error: Call to undefined function dbDelta() in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:49
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(122): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install(false)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/includes/plugin.php(660): do_action('activate_coode-...', false)
+#5 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(44): activate_plugin('coode-price-cal...', 'http://localhos...', false)
+#6 {main}
+  thrown
+
+2019-06-25T23:31:16+00:00 CRITICAL Uncaught Error: Call to undefined function dbDelta() in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:49
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(122): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(177): do_action('activate_coode-...')
+#5 {main}
+  thrown
+
+2019-06-25T23:31:16+00:00 CRITICAL Uncaught Error: Call to undefined function dbDelta() in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:49
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(122): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(177): do_action('activate_coode-...')
+#5 {main}
+  thrown
+
+2019-06-25T23:32:26+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:38
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(121): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install(false)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/includes/plugin.php(660): do_action('activate_coode-...', false)
+#5 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(44): activate_plugin('coode-price-cal...', 'http://localhos...', false)
+#6 {main}
+  thrown
+
+2019-06-25T23:32:29+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:38
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(121): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(177): do_action('activate_coode-...')
+#5 {main}
+  thrown
+
+2019-06-25T23:32:29+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php:38
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/coode-price-calculator.php(121): coode_pc_create_table_product()
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): coode_pc_install('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/plugins.php(177): do_action('activate_coode-...')
+#5 {main}
+  thrown
+

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1201" height="901" viewBox="0 0 608.51 456.51" xml:space="preserve">
+<desc>Created with Fabric.js 2.3.3</desc>
+<defs>
+</defs>
+<g transform="translate(306.46 229.89) scale(0.52 0.52)" style="">
+	<rect x="-397.2" y="-294.4" rx="0" ry="0" width="794.4" height="588.8" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform="translate(-1.2 11.6)"/>
+	<linearGradient id="SVGID_0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(29.7355 16.0715 14.6447 -27.8784 -12755.2598 18476.7285)"  x1="-520.1995" y1="667.7465000000001" x2="-515.2925" y2="662.8395">
+<stop offset="0%" style="stop-color:rgb(232,232,232);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(242,242,242);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="34.9,-58.4 -130.9,6.8 -23.8,58.4 130.9,-58.4 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_0); fill-rule: nonzero; opacity: 0.6;" transform="translate(217.8 -253.7) "/>
+	<linearGradient id="SVGID_1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(41.9794 22.6893 11.2276 -21.3735 -11463.0293 13103.9951)"  x1="-600.7402999999999" y1="665.9698000000001" x2="-593.0242999999999" y2="658.2538000000001">
+<stop offset="0%" style="stop-color:rgb(210,210,210);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(185,185,185);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="105.8,-34.4 98.2,-58.4 48.9,-58.4 -105.8,58.4 105.8,33.1 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_1); fill-rule: nonzero; opacity: 0.6;" transform="translate(299.8 -253.7) "/>
+	<linearGradient id="SVGID_2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(33.2337 17.9624 12.2039 -23.232 -11300.0723 14932.3457)"  x1="-599.3592" y1="605.1123" x2="-593.9354999999999" y2="599.6886000000001">
+<stop offset="0%" style="stop-color:rgb(243,243,243);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(209,209,209);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="105.8,-26.25 -105.8,-0.95 105.8,26.25 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_2); fill-rule: nonzero; opacity: 0.6;" transform="translate(299.8 -194.35) "/>
+	<linearGradient id="SVGID_3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(63.8438 34.5066 19.0381 -36.2419 -19426.4297 22749.9297)"  x1="16.166999999999987" y1="346.68999999999994" x2="24.592399999999984" y2="338.2645">
+<stop offset="0%" style="stop-color:rgb(243,243,243);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(209,209,209);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-80.8,-116.5 -80.8,116.5 80.8,-113.9 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_3); fill-rule: nonzero; opacity: 0.6;" transform="translate(-323 60.1) "/>
+	<linearGradient id="SVGID_4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(55.098 29.7797 14.6447 -27.8784 -15336.6484 17118.3906)"  x1="-169.49869999999999" y1="591.2317" x2="-163.33529999999996" y2="585.0682999999999">
+<stop offset="0%" style="stop-color:rgb(243,243,243);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(209,209,209);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-208.15,-129.15 -222.05,-114.05 -107.05,129.15 222.05,-63.95 -54.45,-129.15 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_4); fill-rule: nonzero; opacity: 0.6;" transform="translate(-135.15 -182.95) "/>
+	<linearGradient id="SVGID_5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(63.8438 34.5066 26.8486 -51.1105 -25090.5137 33531.5625)"  x1="16.413599999999988" y1="588.1065" x2="22.254699999999985" y2="582.2654">
+<stop offset="0%" style="stop-color:rgb(210,210,210);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(185,185,185);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-80.8,119 80.8,121.6 -34.2,-121.6 -80.8,-70.4 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_5); fill-rule: nonzero; opacity: 0.6;" transform="translate(-323 -175.4) "/>
+	<linearGradient id="SVGID_6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(59.4709 32.1432 19.5262 -37.1712 -19282.5781 23612.4102)"  x1="-461.52580000000006" y1="696.998" x2="-455.58630000000005" y2="691.0585">
+<stop offset="0%" style="stop-color:rgb(254,254,254);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(211,211,211);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-94,-32.6 -71.8,32.6 94,-32.6 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_6); fill-rule: nonzero; opacity: 0.6;" transform="translate(158.7 -279.5) "/>
+	<linearGradient id="SVGID_7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(55.098 29.7797 20.0144 -38.1005 -19221.002 24512.6074)"  x1="-254.9174" y1="695.3975" x2="-249.08729999999997" y2="689.5674">
+<stop offset="0%" style="stop-color:rgb(167,167,167);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(199,199,199);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-138.25,-32.6 138.25,32.6 116.05,-32.6 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_7); fill-rule: nonzero; opacity: 0.6;" transform="translate(-51.35 -279.5) "/>
+	<linearGradient id="SVGID_8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-15.719 29.9234 -26.2372 -14.1808 19232.1504 7872.0371)"  x1="-50.13" y1="594.3635" x2="-43.6311" y2="587.8646">
+<stop offset="0%" style="stop-color:rgb(243,243,243);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(209,209,209);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-120.45,-8.7 -120.45,52.7 45.25,62.2 120.45,-62.2 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_8); fill-rule: nonzero; opacity: 1;" transform="translate(-283.35 -207.5) "/>
+	<linearGradient id="SVGID_9" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-22.1914 42.2447 -20.1152 -10.872 15411.9814 4266.6045)"  x1="-2.697800000000015" y1="483.75030000000004" x2="7.188799999999986" y2="473.8637">
+<stop offset="0%" style="stop-color:rgb(210,210,210);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(185,185,185);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-82.85,-47.2 -82.85,47.2 82.85,-37.7 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_9); fill-rule: nonzero; opacity: 1;" transform="translate(-320.95 -107.6) "/>
+	<linearGradient id="SVGID_10" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-17.5681 33.4438 -21.8643 -11.8174 16225.7324 5836.5347)"  x1="-5.594100000000012" y1="450.7247000000001" x2="1.1407999999999845" y2="443.98990000000003">
+<stop offset="0%" style="stop-color:rgb(243,243,243);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(209,209,209);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-82.85,12.8 -82.85,72.1 82.85,-72.1 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_10); fill-rule: nonzero; opacity: 1;" transform="translate(-320.95 -73.2) "/>
+	<linearGradient id="SVGID_11" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-33.7494 64.2473 -34.1083 -18.4351 26830.75 7523.6128)"  x1="-670.0957000000001" y1="667.287" x2="-659.734" y2="656.9253">
+<stop offset="0%" style="stop-color:rgb(243,243,243);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(209,209,209);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="56.9,-5.85 49.3,-29.85 -35.8,-29.85 -56.9,-15.25 56.9,29.85 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_11); fill-rule: nonzero; opacity: 1;" transform="translate(348.7 -282.25) "/>
+	<linearGradient id="SVGID_12" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-29.1262 55.4462 -26.2372 -14.1808 20615.5801 5303.4131)"  x1="-386.70609999999994" y1="670.664" x2="-378.8042999999999" y2="662.7622">
+<stop offset="0%" style="stop-color:rgb(243,243,243);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(209,209,209);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-187.65,-21.2 -227.35,21.2 227.35,-6.6 225.55,-21.2 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_12); fill-rule: nonzero; opacity: 1;" transform="translate(64.45 -290.9) "/>
+	<linearGradient id="SVGID_13" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-33.7494 64.2473 -48.1015 -25.9982 36978.0547 13008.2578)"  x1="-622.8831" y1="702.3444999999999" x2="-615.6966" y2="695.1579999999999">
+<stop offset="0%" style="stop-color:rgb(210,210,210);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(185,185,185);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-11.45,-7.3 -9.65,7.3 11.45,-7.3 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_13); fill-rule: nonzero; opacity: 1;" transform="translate(301.45 -304.8) "/>
+	<linearGradient id="SVGID_14" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-31.4378 59.8468 -34.9829 -18.9078 27159.0762 8302.3301)"  x1="-35.962500000000006" y1="663.0087" x2="-27.562000000000012" y2="654.6080999999999">
+<stop offset="0%" style="stop-color:rgb(254,254,254);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(211,211,211);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-120.45,-47.95 -120.45,47.95 120.45,-5.55 110.25,-47.95 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14); fill-rule: nonzero; opacity: 1;" transform="translate(-283.35 -264.15) "/>
+	<linearGradient id="SVGID_15" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-29.1262 55.4462 -35.8574 -19.3805 27575.4395 9064.0293)"  x1="-174.58360000000002" y1="688.7817" x2="-167.2561" y2="681.4542">
+<stop offset="0%" style="stop-color:rgb(167,167,167);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(199,199,199);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-24.95,-21.2 -14.75,21.2 24.95,-21.2 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_15); fill-rule: nonzero; opacity: 1;" transform="translate(-148.15 -290.9) "/>
+	<linearGradient id="SVGID_16" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-15.9892 30.0057 -27.9551 -14.8965 20380.4473 8324.9043)"  x1="-13.48960000000001" y1="608.7627" x2="-10.030900000000017" y2="605.3041000000001">
+<stop offset="0%" style="stop-color:rgb(255,168,0);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,190,1);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-85.8,-4.35 -85.8,17.75 32.7,25.15 85.8,-25.15 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_16); fill-rule: nonzero; opacity: 1;" transform="translate(-318 -224.45) "/>
+	<linearGradient id="SVGID_17" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-22.573 42.361 -21.4323 -11.4207 16278.1387 4595.5225)"  x1="21.015500000000003" y1="548.4327000000001" x2="28.917299999999997" y2="540.5310000000001">
+<stop offset="0%" style="stop-color:rgb(254,188,17);stop-opacity: 1"/>
+<stop offset="59.330000000000005%" style="stop-color:rgb(255,111,0);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,48,0);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-59.25,-32.85 -59.25,32.85 59.25,-25.45 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_17); fill-rule: nonzero; opacity: 1;" transform="translate(-344.55 -173.85) "/>
+	<linearGradient id="SVGID_18" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-17.8703 33.5359 -23.2959 -12.4137 17167.1367 6203.769)"  x1="17.32119999999999" y1="525.3631" x2="22.783599999999993" y2="519.9008000000001">
+<stop offset="0%" style="stop-color:rgb(255,201,0);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,100,0);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-59.25,7.8 -59.25,50.5 59.25,-50.5 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_18); fill-rule: nonzero; opacity: 1;" transform="translate(-344.55 -148.8) "/>
+	<linearGradient id="SVGID_19" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-34.3298 64.4241 -36.3417 -19.3655 28386.5469 8124.5649)"  x1="-607.6279" y1="637.3195" x2="-599.2027999999999" y2="628.8943">
+<stop offset="0%" style="stop-color:rgb(255,201,0);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,100,0);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="118.05,-44.7 113.35,-59.6 -84.95,-59.6 -118.05,-41 118.05,59.6 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_19); fill-rule: nonzero; opacity: 1;" transform="translate(287.55 -252.5) "/>
+	<linearGradient id="SVGID_20" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-29.6271 55.5988 -27.9551 -14.8965 21787.9238 5750.1987)"  x1="-288.65549999999996" y1="660.4245" x2="-282.69219999999996" y2="654.4611">
+<stop offset="0%" style="stop-color:rgb(255,201,0);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,100,0);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-149.55,-31.25 -200.85,31.25 200.85,-12.65 190.05,-31.25 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_20); fill-rule: nonzero; opacity: 1;" transform="translate(-31.35 -280.85) "/>
+	<linearGradient id="SVGID_21" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-34.3298 64.4241 -51.2512 -27.3103 39198.0781 13886.2344)"  x1="-499.3157000000001" y1="699.7323" x2="-494.5300000000001" y2="694.9466">
+<stop offset="0%" style="stop-color:rgb(255,111,0);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,48,0);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-21.95,-9.3 -11.15,9.3 21.95,-9.3 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_21); fill-rule: nonzero; opacity: 1;" transform="translate(180.65 -302.8) "/>
+	<linearGradient id="SVGID_22" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-31.9785 60.0115 -37.2735 -19.862 28748.5625 8920.9141)"  x1="0.6572999999999922" y1="666.83" x2="6.953699999999984" y2="660.5336000000001">
+<stop offset="0%" style="stop-color:rgb(255,225,29);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,106,0);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-85.8,-41.65 -85.8,41.65 85.8,20.85 79.8,-41.65 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_22); fill-rule: nonzero; opacity: 1;" transform="translate(-318 -270.45) "/>
+	<linearGradient id="SVGID_23" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-29.6271 55.5988 -38.2054 -20.3586 29201.7461 9700.9414)"  x1="-112.36689999999999" y1="678.3356" x2="-105.1167" y2="671.0854">
+<stop offset="0%" style="stop-color:rgb(255,17,0);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,77,0);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-28.65,-31.25 -22.65,31.25 28.65,-31.25 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_23); fill-rule: nonzero; opacity: 1;" transform="translate(-209.55 -280.85) "/>
+	<linearGradient id="SVGID_24" gradientUnits="userSpaceOnUse" gradientTransform="matrix(55.5988 29.6271 14.1081 -26.4757 -15074.5557 16125.209)"  x1="63.4483" y1="707.1186" x2="71.4203" y2="699.1465">
+<stop offset="0%" style="stop-color:rgb(255,201,0);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,100,0);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="-28.85,-16.35 -28.85,16.35 28.85,-16.35 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_24); fill-rule: nonzero; opacity: 1;" transform="translate(-374.95 -295.75) "/>
+	<linearGradient id="SVGID_25" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-61.1149 -39.137 -21.6681 34.7336 19982.9063 -20611.7266)"  x1="-673.5108" y1="247.5242" x2="-667.8996" y2="241.91299999999995">
+<stop offset="0%" style="stop-color:rgb(243,243,243);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(209,209,209);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="57.6,-74.05 56.1,-81.05 -57.6,69.55 57.6,81.05 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_25); fill-rule: nonzero; opacity: 0.6;" transform="translate(345.4 136.55) "/>
+	<linearGradient id="SVGID_26" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-52.7429 -33.7757 -16.6678 26.7181 15487.4463 -15298.1914)"  x1="-534.5888" y1="114.63109999999995" x2="-530.5065999999999" y2="110.54899999999986">
+<stop offset="0%" style="stop-color:rgb(243,243,243);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(209,209,209);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="123.7,55.55 84,-55.55 -123.7,54.75 -123.7,55.55 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_26); fill-rule: nonzero; opacity: 0.6;" transform="translate(203.8 261.65) "/>
+	<linearGradient id="SVGID_27" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-61.1149 -39.137 -30.5576 48.9833 26429.1367 -30945.2344)"  x1="-673.3743999999999" y1="134.10649999999987" x2="-669.5051" y2="130.2372999999999">
+<stop offset="0%" style="stop-color:rgb(210,210,210);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(185,185,185);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="57.6,-44.05 -57.6,-55.55 -17.9,55.55 56.7,55.55 57.6,54.65 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_27); fill-rule: nonzero; opacity: 0.6;" transform="translate(345.4 261.65) "/>
+	<linearGradient id="SVGID_28" gradientUnits="userSpaceOnUse" gradientTransform="matrix(17.8904 -28.678 25.1157 16.0837 -19672.0117 -8635.832)"  x1="-629.0878" y1="148.98419999999987" x2="-624.9549" y2="144.85119999999995">
+<stop offset="0%" style="stop-color:rgb(232,232,232);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(242,242,242);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="77.45,-7.7 -44.25,-25.3 -77.45,25.3 77.45,25.3 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_28); fill-rule: nonzero; opacity: 1;" transform="translate(325.55 291.9) "/>
+	<linearGradient id="SVGID_29" gradientUnits="userSpaceOnUse" gradientTransform="matrix(25.257 -40.4865 19.2554 12.3309 -16128.2979 -4757.5088)"  x1="-644.5142" y1="198.6004999999999" x2="-638.3402" y2="192.42649999999992">
+<stop offset="0%" style="stop-color:rgb(210,210,210);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(185,185,185);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="60.85,-36.55 -60.85,18.95 60.85,36.55 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_29); fill-rule: nonzero; opacity: 1;" transform="translate(342.15 247.65) "/>
+	<linearGradient id="SVGID_30" gradientUnits="userSpaceOnUse" gradientTransform="matrix(19.9951 -32.0519 20.9298 13.4031 -16822.7266 -6383.8047)"  x1="-643.5971999999999" y1="225.50310000000002" x2="-639.1522" y2="221.05810000000008">
+<stop offset="0%" style="stop-color:rgb(243,243,243);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(209,209,209);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="60.85,-49.3 -60.85,49.3 60.85,-6.2 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_30); fill-rule: nonzero; opacity: 1;" transform="translate(342.15 217.3) "/>
+	<linearGradient id="SVGID_31" gradientUnits="userSpaceOnUse" gradientTransform="matrix(18.166 -28.7401 26.776 16.9246 -20782.6504 -9172.4365)"  x1="-647.8783999999999" y1="136.19249999999988" x2="-644.5944" y2="132.9084999999999">
+<stop offset="0%" style="stop-color:rgb(255,168,0);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,190,1);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="58.35,-3.6 -35.35,-17.8 -58.35,17.8 58.35,17.8 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_31); fill-rule: nonzero; opacity: 1;" transform="translate(344.65 299.4) "/>
+	<linearGradient id="SVGID_32" gradientUnits="userSpaceOnUse" gradientTransform="matrix(25.6462 -40.5743 20.5283 12.9755 -16967.3867 -5150.6758)"  x1="-658.3788" y1="171.10670000000005" x2="-653.4381" y2="166.16590000000008">
+<stop offset="0%" style="stop-color:rgb(255,111,0);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,48,0);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="46.85,-27.45 -46.85,13.25 46.85,27.45 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_32); fill-rule: nonzero; opacity: 1;" transform="translate(356.15 268.35) "/>
+	<linearGradient id="SVGID_33" gradientUnits="userSpaceOnUse" gradientTransform="matrix(20.3033 -32.1214 22.3133 14.1038 -17734.4824 -6819.1782)"  x1="-657.9458" y1="192.44640000000004" x2="-654.2164" y2="188.7169">
+<stop offset="0%" style="stop-color:rgb(255,201,0);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,100,0);stop-opacity: 1"/>
+</linearGradient>
+<polygon points="46.85,-37.1 -46.85,37.1 46.85,-3.6 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_33); fill-rule: nonzero; opacity: 1;" transform="translate(356.15 244.5) "/>
+	<linearGradient id="SVGID_34" gradientUnits="userSpaceOnUse" x1="-62.08179999999999" y1="0" x2="62.10499999999996" y2="0">
+<stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity: 1"/>
+<stop offset="16.950000000000003%" style="stop-color:rgb(247,247,247);stop-opacity: 1"/>
+<stop offset="42.809999999999995%" style="stop-color:rgb(226,226,226);stop-opacity: 1"/>
+<stop offset="74.18%" style="stop-color:rgb(192,192,192);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(158,158,158);stop-opacity: 1"/>
+</linearGradient>
+<rect x="-62.1" y="-306" rx="0" ry="0" width="124.2" height="612" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_34); fill-rule: nonzero; opacity: 0.3;" transform="translate(66.8 0)"/>
+	<linearGradient id="SVGID_35" gradientUnits="userSpaceOnUse" x1="-62.09979999999999" y1="0" x2="62.09010000000001" y2="0">
+<stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity: 1"/>
+<stop offset="16.950000000000003%" style="stop-color:rgb(247,247,247);stop-opacity: 1"/>
+<stop offset="42.809999999999995%" style="stop-color:rgb(226,226,226);stop-opacity: 1"/>
+<stop offset="74.18%" style="stop-color:rgb(192,192,192);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(158,158,158);stop-opacity: 1"/>
+</linearGradient>
+<rect x="-62.1" y="-306" rx="0" ry="0" width="124.2" height="612" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_35); fill-rule: nonzero; opacity: 0.3;" transform="translate(-198.5 0)"/>
+	<linearGradient id="SVGID_36" gradientUnits="userSpaceOnUse" x1="-62.08179999999999" y1="0" x2="62.10499999999996" y2="0">
+<stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity: 1"/>
+<stop offset="16.950000000000003%" style="stop-color:rgb(247,247,247);stop-opacity: 1"/>
+<stop offset="42.809999999999995%" style="stop-color:rgb(226,226,226);stop-opacity: 1"/>
+<stop offset="74.18%" style="stop-color:rgb(192,192,192);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(158,158,158);stop-opacity: 1"/>
+</linearGradient>
+<rect x="-62.1" y="-306" rx="0" ry="0" width="124.2" height="612" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_36); fill-rule: nonzero; opacity: 0.3;" transform="translate(66.8 0)"/>
+	<linearGradient id="SVGID_37" gradientUnits="userSpaceOnUse" x1="-62.09979999999999" y1="0" x2="62.09010000000001" y2="0">
+<stop offset="0%" style="stop-color:rgb(255,255,255);stop-opacity: 1"/>
+<stop offset="16.950000000000003%" style="stop-color:rgb(247,247,247);stop-opacity: 1"/>
+<stop offset="42.809999999999995%" style="stop-color:rgb(226,226,226);stop-opacity: 1"/>
+<stop offset="74.18%" style="stop-color:rgb(192,192,192);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(158,158,158);stop-opacity: 1"/>
+</linearGradient>
+<rect x="-62.1" y="-306" rx="0" ry="0" width="124.2" height="612" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_37); fill-rule: nonzero; opacity: 0.3;" transform="translate(-198.5 0)"/>
+</g>
+	<g transform="translate(155.87 164.78) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="6" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.28" y="1.88" >H</tspan><tspan x="-13.49" y="1.88" >E</tspan><tspan x="-8.54" y="1.88" >A</tspan><tspan x="-3.25" y="1.88" >D</tspan><tspan x="2.22" y="1.88" >L</tspan><tspan x="6.93" y="1.88" >I</tspan><tspan x="10.06" y="1.88" >N</tspan><tspan x="15.87" y="1.88" >E</tspan></text>
+	</g>
+	<g transform="translate(137.13 177.78) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="3" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-10.86" y="0.94" >S</tspan><tspan x="-8.57" y="0.94" >P</tspan><tspan x="-6.41" y="0.94" >A</tspan><tspan x="-4.04" y="0.94" >C</tspan><tspan x="-1.58" y="0.94" >E</tspan><tspan x="0.64" y="0.94" style="white-space: pre; "> </tspan><tspan x="1.88" y="0.94" >H</tspan><tspan x="4.52" y="0.94" >E</tspan><tspan x="6.74" y="0.94" >R</tspan><tspan x="9.15" y="0.94" >E</tspan></text>
+	</g>
+	<g transform="translate(138.39 216.71) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Armata" font-size="8" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-11.67" y="2.51" >SALES</tspan></text>
+	</g>
+	<g transform="translate(162.79 263.68) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Audiowide" font-size="8" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(51,51,51); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.07" y="2.51" style="white-space: pre; ">PROJECT </tspan></text>
+	</g>
+	<g transform="translate(166.52 243.28) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Audiowide" font-size="8" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(51,51,51); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24.55" y="2.51" >FINANCIAL</tspan></text>
+	</g>
+<g transform="translate(162.99 316.65) scale(1.71 1.96)" style="">
+	<rect x="-31.2" y="-11.7" rx="0" ry="0" width="62.4" height="23.4" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(96,104,113); fill-rule: nonzero; opacity: 0.81;" transform="translate(-0.15 0.2)"/>
+	<path d="M 37.4 16.8 h -8.7 c -0.1 0 -0.2 -0.1 -0.2 -0.2 v -4.9 c 0 -0.1 0.1 -0.2 0.2 -0.2 h 2 l 0.1 -1.2 c 0 -0.1 0.1 -0.2 0.2 -0.2 h 4 c 0.1 0 0.2 0.1 0.2 0.2 l 0.2 1.2 h 2 c 0.1 0 0.2 0.1 0.2 0.2 v 4.9 C 37.6 16.7 37.6 16.8 37.4 16.8 z M 29 16.4 h 8.3 v -4.5 h -2 c -0.1 0 -0.2 -0.1 -0.2 -0.2 l -0.2 -1.2 h -3.7 l -0.1 1.2 c 0 0.1 -0.1 0.2 -0.2 0.2 h -2 V 16.4 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.63;" transform="translate(0.3 0.25) translate(-33.050000000000004, -13.450000000000003) " stroke-linecap="round" />
+	<path d="M 33.1 12.1 c 1 0 1.7 0.8 1.7 1.7 c 0 1 -0.8 1.7 -1.7 1.7 c -1 0 -1.7 -0.8 -1.7 -1.7 C 31.4 12.9 32.2 12.1 33.1 12.1 M 33.1 11.8 c -1.2 0 -2.1 0.9 -2.1 2.1 s 0.9 2.1 2.1 2.1 c 1.2 0 2.1 -0.9 2.1 -2.1 S 34.3 11.8 33.1 11.8 L 33.1 11.8 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.63;" transform="translate(0.35 0.7) translate(-33.1, -13.9) " stroke-linecap="round" />
+	<path d="M 36.7 12.6 h -1.2 c -0.1 0 -0.2 -0.1 -0.2 -0.2 s 0.1 -0.2 0.2 -0.2 h 1.2 c 0.1 0 0.2 0.1 0.2 0.2 S 36.8 12.6 36.7 12.6 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.63;" transform="translate(3.35 -0.8) translate(-36.1, -12.4) " stroke-linecap="round" />
+	<path d="M 32.8 13.3 c 0 0.2 -0.2 0.4 -0.4 0.4 c -0.2 0 -0.4 -0.2 -0.4 -0.4 c 0 -0.2 0.2 -0.4 0.4 -0.4 C 32.7 12.9 32.8 13.1 32.8 13.3 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.63;" transform="translate(-0.35 0.1) translate(-32.4, -13.3) " stroke-linecap="round" />
+	<path d="M 43.4 10.3 c 0 0 -0.1 0 -0.1 0 c 0 0 0 -0.1 0 -0.1 l 18.8 -6.8 c 0.1 0 0.1 0 0.2 0 c 0 0 0 0.1 0 0.1 L 43.4 10.3 C 43.5 10.3 43.4 10.3 43.4 10.3 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.63;" transform="translate(20.05 -6.35) translate(-52.8, -6.850000000000001) " stroke-linecap="round" />
+	<path d="M 23 10.3 C 23 10.3 22.9 10.3 23 10.3 L 4.1 3.4 C 4 3.4 4 3.4 4.1 3.3 c 0 0 0.1 0 0.2 0 l 18.8 6.8 c 0.1 0 0.1 0.1 0 0.1 C 23.1 10.3 23 10.3 23 10.3 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.63;" transform="translate(-19.15 -6.4) translate(-13.6, -6.800000000000001) " stroke-linecap="round" />
+	<path d="M 4.2 24.4 c 0 0 -0.1 0 -0.1 0 C 4 24.3 4 24.3 4.2 24.4 l 18.7 -6.9 c 0.1 0 0.1 0 0.2 0 c 0 0 0 0.1 0 0.1 L 4.2 24.4 C 4.2 24.4 4.2 24.4 4.2 24.4 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.63;" transform="translate(-19.18 7.75) translate(-13.56715728752538, -20.95) " stroke-linecap="round" />
+	<path d="M 62.2 24.4 C 62.2 24.4 62.1 24.4 62.2 24.4 l -18.9 -6.9 c -0.1 0 -0.1 -0.1 0 -0.1 c 0 0 0.1 0 0.2 0 L 62.2 24.4 c 0.1 -0.1 0.1 0 0.1 0 C 62.3 24.4 62.2 24.4 62.2 24.4 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.63;" transform="translate(20.01 7.7) translate(-52.7625, -20.9) " stroke-linecap="round" />
+</g>
+	<g transform="translate(294.83 123.62) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Audiowide" font-size="4" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(51,51,51); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.93" y="1.26" >CONTENT IS KING</tspan></text>
+	</g>
+<rect x="-25" y="-25" rx="0" ry="0" width="50" height="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1;" transform="translate(296.85 132.82) scale(1.89 0.02)"/>
+	<g transform="translate(306.75 171.47) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="3" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-25.5" y="-10.5" >Lorem ipsum dolor sit amet,</tspan><tspan x="-25.5" y="-5.92" >consectetur adipiscing elit. Vestibulum</tspan><tspan x="-25.5" y="-1.35" >auctor purus elit, at placerat eros</tspan><tspan x="-25.5" y="3.23" >vestibulum id. Sed id sem eu turpis</tspan><tspan x="-25.5" y="7.81" >tristique pretium sed at erat. Donec</tspan><tspan x="-25.5" y="12.38" >ligula ante</tspan></text>
+	</g>
+<circle cx="0" cy="0" r="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,126,0); fill-rule: nonzero; opacity: 1;" transform="translate(258.51 227.2) scale(0.23 0.23) "/>
+	<g transform="translate(321.69 241.44) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="4" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.75" y="-6.61" >Aenean ullamcorper,</tspan><tspan x="-18.75" y="-1.37" >ex non suscipit</tspan><tspan x="-18.75" y="3.88" >pretium, tellus dolor</tspan><tspan x="-18.75" y="9.12" style="white-space: pre; ">dictum ex, </tspan></text>
+	</g>
+	<g transform="translate(258.36 226.52) scale(1.3 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="6" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-1.66" y="1.88" >1</tspan></text>
+	</g>
+<circle cx="0" cy="0" r="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,126,0); fill-rule: nonzero; opacity: 1;" transform="translate(257.94 283.63) scale(0.23 0.23) "/>
+	<g transform="translate(321.1 297.87) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="4" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.75" y="-6.61" >Aenean ullamcorper,</tspan><tspan x="-18.75" y="-1.37" >ex non suscipit</tspan><tspan x="-18.75" y="3.88" >pretium, tellus dolor</tspan><tspan x="-18.75" y="9.12" style="white-space: pre; ">dictum ex, </tspan></text>
+	</g>
+<circle cx="0" cy="0" r="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,126,0); fill-rule: nonzero; opacity: 1;" transform="translate(258.51 338.35) scale(0.23 0.23) "/>
+	<g transform="translate(321.67 352.59) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="4" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-18.75" y="-6.61" >Aenean ullamcorper,</tspan><tspan x="-18.75" y="-1.37" >ex non suscipit</tspan><tspan x="-18.75" y="3.88" >pretium, tellus dolor</tspan><tspan x="-18.75" y="9.12" style="white-space: pre; ">dictum ex, </tspan></text>
+	</g>
+	<g transform="translate(257.74 284.09) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="6" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-1.66" y="1.88" >2</tspan></text>
+	</g>
+	<g transform="translate(257.74 339.38) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="6" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-1.66" y="1.88" >3</tspan></text>
+	</g>
+	<g transform="translate(453.92 154.72) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Audiowide" font-size="10" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,126,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-20.71" y="3.14" >BRAND</tspan></text>
+	</g>
+	<g transform="translate(463.54 172.64) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="4" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(51,51,51); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-15.67" y="1.26" >COMPANY NAME</tspan></text>
+	</g>
+<rect x="-25" y="-25" rx="0" ry="0" width="50" height="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1;" transform="translate(443.03 182.43) scale(2.23 0.02)"/>
+	<g transform="translate(458.76 192.02) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="4" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-17.33" y="1.26" >www.company.com</tspan></text>
+	</g>
+	<g transform="translate(431.18 219.84) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Audiowide" font-size="4" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(51,51,51); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-19.58" y="1.26" >NEW MARKETING</tspan></text>
+	</g>
+<rect x="-25" y="-25" rx="0" ry="0" width="50" height="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1;" transform="translate(442.72 229.61) scale(2.23 0.02) matrix(1 0 0 -1 0 0)"/>
+	<g transform="translate(460.19 254.84) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="4" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.25" y="-3.99" >Nulla mi odio, ultrices eget</tspan><tspan x="-23.25" y="1.26" >nisl nec, commodo</tspan><tspan x="-23.25" y="6.5" style="white-space: pre; ">aliquam justo. </tspan></text>
+	</g>
+	<g transform="translate(395.14 244.32) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="6" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-2.88" y="1.88" >1-</tspan></text>
+	</g>
+	<g transform="translate(461.33 299.3) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="4" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.25" y="-3.99" >Nulla mi odio, ultrices eget</tspan><tspan x="-23.25" y="1.26" >nisl nec, commodo</tspan><tspan x="-23.25" y="6.5" style="white-space: pre; ">aliquam justo. </tspan></text>
+	</g>
+	<g transform="translate(396.28 288.78) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="6" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-2.88" y="1.88" >2-</tspan></text>
+	</g>
+	<g transform="translate(460.19 343.76) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="4" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-23.25" y="-3.99" >Nulla mi odio, ultrices eget</tspan><tspan x="-23.25" y="1.26" >nisl nec, commodo</tspan><tspan x="-23.25" y="6.5" style="white-space: pre; ">aliquam justo. </tspan></text>
+	</g>
+	<g transform="translate(395.14 333.24) scale(2.28 2.28)">
+		<text xml:space="preserve" font-family="Roboto" font-size="6" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(79,84,103); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-2.88" y="1.88" >3-</tspan></text>
+	</g>
+</svg>

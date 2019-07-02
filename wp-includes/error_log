@@ -1,0 +1,11 @@
+[08-Jan-2017 05:29:51] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home1/oxiumusa/public_html/oxiumprint/wp-includes/functions.php on line 8
+[13-Mar-2017 16:58:45] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home1/oxiumusa/public_html/oxiumprint/wp-includes/rss-functions.php on line 8
+[11-Oct-2018 15:03:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/oxiumusa/public_html/oxiumprint/wp-includes/rss-functions.php:8
+Stack trace:
+#0 {main}
+  thrown in /home1/oxiumusa/public_html/oxiumprint/wp-includes/rss-functions.php on line 8
+[19-Nov-2018 18:43:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_robots() in /home1/oxiumusa/public_html/oxiumprint/wp-includes/template-loader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home1/oxiumusa/public_html/oxiumprint/wp-includes/template-loader.php on line 28
+[13-Dec-2018 19:55:53 America/Chicago] PHP Fatal error:  Class 'Walker' not found in /home1/oxiumusa/public_html/oxiumprint/wp-includes/class-walker-nav-menu.php on line 17

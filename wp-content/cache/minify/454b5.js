@@ -1,0 +1,5 @@
+jQuery(document).ready(function(){jQuery('.rightpress_live_product_price').rightpress_live_product_update({ajax_url:rightpress_live_product_price_update_vars.ajaxurl,action:'rightpress_live_product_price_update',before_send:function(){add_price_placeholder(jQuery(this).find('span.price'));},response_handler:function(response){if(typeof response==='object'&&typeof response.result!=='undefined'&&response.result==='success'&&response.display){let price='<span class="woocommerce-Price-currencySymbol">$</span>'+response.label_html;jQuery('.single_variation_wrap .woocommerce-Price-amount').html(price);}
+else{jQuery(this).slideUp();jQuery(this).find('dt span.label').html('');jQuery(this).find('dt span.price').html('');jQuery('#rightpress_live_product_price_update_hide_default').remove();}}});function add_price_placeholder(element)
+{var count=3;element.html('<span class="rightpress_dots">. . .</span>');var dots=element.find('.rightpress_dots');setInterval(add_dot,400);function add_dot()
+{if(count<3){dots.append(' .');count++;}
+else{dots.html('');count=0;}}}});

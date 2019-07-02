@@ -1,0 +1,71 @@
+2019-06-14T00:35:26+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php:154
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php(154): Exception->__construct(Array)
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): RightPress_Live_Product_Price_Update_22->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-06-14T00:36:00+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php:155
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php(155): Exception->__construct(Array)
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): RightPress_Live_Product_Price_Update_22->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-06-14T03:22:55+00:00 CRITICAL Uncaught Error: Call to undefined function split() in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php:203
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): RightPress_Live_Product_Price_Update_22->update_price('')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#4 {main}
+  thrown
+
+2019-06-14T03:23:10+00:00 CRITICAL Uncaught Error: Call to undefined function split() in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php:203
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): RightPress_Live_Product_Price_Update_22->update_price('')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#4 {main}
+  thrown
+
+2019-06-14T04:03:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function RightPress_Live_Product_Price_Update_22::coode_rules_size(), 1 passed in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php on line 269 and exactly 3 expected in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php:203
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php(269): RightPress_Live_Product_Price_Update_22->coode_rules_size(Array)
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): RightPress_Live_Product_Price_Update_22->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Ar
+
+2019-06-14T04:04:09+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function RightPress_Live_Product_Price_Update_22::coode_rules_size(), 1 passed in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php on line 269 and exactly 3 expected in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php:203
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php(269): RightPress_Live_Product_Price_Update_22->coode_rules_size(Array)
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): RightPress_Live_Product_Price_Update_22->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Ar
+
+2019-06-14T04:04:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function RightPress_Live_Product_Price_Update_22::coode_rules_size(), 1 passed in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php on line 269 and exactly 3 expected in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php:203
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php(269): RightPress_Live_Product_Price_Update_22->coode_rules_size(Array)
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): RightPress_Live_Product_Price_Update_22->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Ar
+
+2019-06-14T04:35:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function RightPress_Live_Product_Price_Update_22::coode_rules_size(), 1 passed in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php on line 254 and exactly 3 expected in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php:203
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php(254): RightPress_Live_Product_Price_Update_22->coode_rules_size(Array)
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): RightPress_Live_Product_Price_Update_22->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Ar
+
+2019-06-14T05:15:30+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Cart as array in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce-custom-fields/rightpress/components/rightpress-live-product-price-update/rightpress-live-product-price-update.class.php:234
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): RightPress_Live_Product_Price_Update_22->woocommerce_custom_price_to_cart_item(Object(WC_Cart))
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1234): do_action('woocommerce_bef...', Object(WC_Cart))
+#4 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(84): WC_Cart->calculate_totals()
+#5 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::
+

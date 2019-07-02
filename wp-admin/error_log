@@ -1,0 +1,54 @@
+[09-Apr-2016 17:07:36] wizard_viewed
+[09-Apr-2016 18:20:03] mojo_plugin_deactivated
+[08-Jan-2017 05:45:02] PHP Fatal error:  Call to undefined function  __() in /home1/oxiumusa/public_html/oxiumprint/wp-admin/menu.php on line 23
+[07-Aug-2018 06:38:14] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 06:40:55] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 06:41:21] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 06:43:59] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 06:45:07] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 06:45:40] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 06:45:56] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 06:46:12] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 06:46:49] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 06:48:54] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 06:55:09] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 07:03:21] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 07:07:51] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 07:12:22] PHP Parse error:  syntax error, unexpected '[' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsome/inc/functions/function-custom-css.php on line 81
+[07-Aug-2018 07:16:47] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/houzez/framework/functions/property_functions.php on line 3848
+[07-Aug-2018 07:17:33] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/houzezs/framework/functions/property_functions.php on line 3848
+[07-Aug-2018 09:13:14 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/oxiumusa/public_html/oxiumprint/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[07-Aug-2018 09:13:15 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/oxiumusa/public_html/oxiumprint/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[07-Aug-2018 09:13:15 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/oxiumusa/public_html/oxiumprint/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[07-Aug-2018 09:13:17 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/oxiumusa/public_html/oxiumprint/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[07-Aug-2018 09:13:19 UTC] PHP Warning:  sprintf(): Too few arguments in /home1/oxiumusa/public_html/oxiumprint/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[07-Aug-2018 09:29:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes/inc/admin/envato_setup/envato_setup.php on line 1733
+[14-Aug-2018 08:22:20 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16777224 bytes) in /home1/oxiumusa/public_html/oxiumprint/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 1195
+[30-Aug-2018 03:52:48 UTC] PHP Parse error:  syntax error, unexpected 'price' (T_STRING), expecting ',' or ';' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes-child/functions.php on line 31
+[30-Aug-2018 03:53:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes-child/functions.php on line 32
+[30-Aug-2018 03:53:16 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes-child/functions.php on line 32
+[24-Oct-2018 12:00:16 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/oxiumusa/public_html/oxiumprint/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 769
+[24-Oct-2018 12:01:10 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/oxiumusa/public_html/oxiumprint/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 769
+[24-Oct-2018 12:02:52 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/oxiumusa/public_html/oxiumprint/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 769
+[24-Oct-2018 12:05:48 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/oxiumusa/public_html/oxiumprint/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 769
+[24-Oct-2018 12:09:18 America/Chicago] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/oxiumusa/public_html/oxiumprint/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/rules.php on line 769
+[24-Oct-2018 17:47:48 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home1/oxiumusa/public_html/oxiumprint/wp-content/plugins/web-to-print-online-designer/includes/class-updates.php:142
+Stack trace:
+#0 /home1/oxiumusa/public_html/oxiumprint/wp-includes/class-wp-hook.php(288): NBD_Updates->push_update(Object(stdClass))
+#1 /home1/oxiumusa/public_html/oxiumprint/wp-includes/plugin.php(203): WP_Hook->apply_filters(Object(stdClass), Array)
+#2 /home1/oxiumusa/public_html/oxiumprint/wp-includes/option.php(1718): apply_filters('site_transient_...', Object(stdClass), 'update_plugins')
+#3 /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes/inc/classes/class-tgm-plugin-activation.php(1938): get_site_transient('update_plugins')
+#4 /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes/inc/classes/class-tgm-plugin-activation.php(1796): TGM_Plugin_Activation->does_plugin_have_update('woocommerce')
+#5 /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes/inc/classes/class-tgm-plugin-activa in /home1/oxiumusa/public_html/oxiumprint/wp-content/plugins/web-to-print-online-designer/includes/class-updates.php on line 142
+[24-Oct-2018 17:47:57 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home1/oxiumusa/public_html/oxiumprint/wp-content/plugins/web-to-print-online-designer/includes/class-updates.php:142
+Stack trace:
+#0 /home1/oxiumusa/public_html/oxiumprint/wp-includes/class-wp-hook.php(288): NBD_Updates->push_update(Object(stdClass))
+#1 /home1/oxiumusa/public_html/oxiumprint/wp-includes/plugin.php(203): WP_Hook->apply_filters(Object(stdClass), Array)
+#2 /home1/oxiumusa/public_html/oxiumprint/wp-includes/option.php(1718): apply_filters('site_transient_...', Object(stdClass), 'update_plugins')
+#3 /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes/inc/classes/class-tgm-plugin-activation.php(1938): get_site_transient('update_plugins')
+#4 /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes/inc/classes/class-tgm-plugin-activation.php(1796): TGM_Plugin_Activation->does_plugin_have_update('woocommerce')
+#5 /home1/oxiumusa/public_html/oxiumprint/wp-content/themes/flatsomes/inc/classes/class-tgm-plugin-activa in /home1/oxiumusa/public_html/oxiumprint/wp-content/plugins/web-to-print-online-designer/includes/class-updates.php on line 142
+[13-Dec-2018 19:55:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/oxiumusa/public_html/oxiumprint/wp-admin/admin-functions.php:12
+Stack trace:
+#0 {main}
+  thrown in /home1/oxiumusa/public_html/oxiumprint/wp-admin/admin-functions.php on line 12

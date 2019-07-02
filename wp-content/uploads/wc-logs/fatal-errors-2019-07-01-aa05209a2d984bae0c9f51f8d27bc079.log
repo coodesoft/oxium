@@ -1,0 +1,206 @@
+2019-07-01T22:34:04+00:00 CRITICAL Uncaught Error: Class 'Filtxer' not found in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php:108
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->custom_price_to_cart_item(Object(WC_Cart))
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1234): do_action('woocommerce_bef...', Object(WC_Cart))
+#4 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart-session.php(140): WC_Cart->calculate_totals()
+#5 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): WC_Cart_Session->get_cart_from_session('')
+#6 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465)
+
+2019-07-01T22:36:07+00:00 CRITICAL Uncaught Exception in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php:111
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->custom_price_to_cart_item(Object(WC_Cart))
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1234): do_action('woocommerce_bef...', Object(WC_Cart))
+#4 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart-session.php(140): WC_Cart->calculate_totals()
+#5 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): WC_Cart_Session->get_cart_from_session('')
+#6 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Ar
+
+2019-07-01T22:36:49+00:00 CRITICAL Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php:111
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(111): Exception->__construct(Array, 1)
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->custom_price_to_cart_item(Object(WC_Cart))
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1234): do_action('woocommerce_bef...', Object(WC_Cart))
+#5 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart-session.php(140): WC_Cart->calculate_totals()
+#6 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): WC_
+
+2019-07-01T22:36:59+00:00 CRITICAL Uncaught Exception: {"id":"1","1a3":"$149.00","4a7":"$129.00","8a15":"$117.00","16a30":"$113.00","31a50":"$105.00","51a100":"$99.00"} in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php:111
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->custom_price_to_cart_item(Object(WC_Cart))
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1234): do_action('woocommerce_bef...', Object(WC_Cart))
+#4 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart-session.php(140): WC_Cart->calculate_totals()
+#5 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): WC_Cart_Session->get_cart_from_session('')
+#6 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_
+
+2019-07-01T22:48:12+00:00 CRITICAL Uncaught Exception: SQL Injection attack detected. name changed!  in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/db/Filter.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(63): Filter::get('', '5')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-07-01T22:48:13+00:00 CRITICAL Uncaught Exception: SQL Injection attack detected. name changed!  in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/db/Filter.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(63): Filter::get('', '5')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-07-01T22:48:14+00:00 CRITICAL Uncaught Exception: SQL Injection attack detected. name changed!  in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/db/Filter.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(63): Filter::get('', '5')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-07-01T22:48:16+00:00 CRITICAL Uncaught Exception: SQL Injection attack detected. name changed!  in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/db/Filter.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(63): Filter::get('', '5')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-07-01T22:48:17+00:00 CRITICAL Uncaught Exception: SQL Injection attack detected. name changed!  in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/db/Filter.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(63): Filter::get('', '5')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-07-01T22:50:32+00:00 CRITICAL Uncaught Exception: SQL Injection attack detected. name changed!  in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/db/Filter.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(63): Filter::get('', '1')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-07-01T22:50:35+00:00 CRITICAL Uncaught Exception: SQL Injection attack detected. name changed!  in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/db/Filter.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(63): Filter::get('', '1')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-07-01T22:51:25+00:00 CRITICAL Uncaught Exception: SQL Injection attack detected. name changed!  in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/db/Filter.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(63): Filter::get('', '2')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-07-01T22:53:29+00:00 CRITICAL Uncaught Exception in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php:63
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#4 {main}
+  thrown
+
+2019-07-01T22:53:49+00:00 CRITICAL Uncaught Exception in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php:63
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#4 {main}
+  thrown
+
+2019-07-01T22:54:08+00:00 CRITICAL Uncaught Exception: FilterQty in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php:63
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#4 {main}
+  thrown
+
+2019-07-01T22:55:07+00:00 CRITICAL Uncaught Exception: FilterQty in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php:64
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#4 {main}
+  thrown
+
+2019-07-01T22:55:38+00:00 CRITICAL Uncaught Exception: {"source":null} in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php:63
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#4 {main}
+  thrown
+
+2019-07-01T22:56:14+00:00 CRITICAL Uncaught Exception: SQL Injection attack detected. name changed!  in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/db/Filter.php:12
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(62): Filter::get('', '2')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-07-01T22:56:34+00:00 CRITICAL Uncaught Exception: {"source":"coode_pc_filterQty"} in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php:63
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#4 {main}
+  thrown
+
+2019-07-01T23:10:13+00:00 CRITICAL Uncaught Exception: 3 in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/filters/FilterPcs.php:36
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(65): FilterPCs->getPrice(Array, Array)
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+
+2019-07-01T23:10:28+00:00 CRITICAL Uncaught Exception: 8 in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/filters/FilterPcs.php:36
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(65): FilterPCs->getPrice(Array, Array)
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->update_price('')
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-admin/admin-ajax.php(167): do_action('wp_ajax_rightpr...')
+#5 {main}
+  thrown
+

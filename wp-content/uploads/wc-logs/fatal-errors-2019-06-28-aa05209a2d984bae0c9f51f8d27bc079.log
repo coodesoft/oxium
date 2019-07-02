@@ -1,0 +1,22 @@
+2019-06-28T23:59:08+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/filters/FilterPcs.php:33
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(103): FilterPCs::getPrice('1', Array)
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->custom_price_to_cart_item(Object(WC_Cart))
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1234): do_action('woocommerce_bef...', Object(WC_Cart))
+#5 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart-session.php(140): WC_Cart->calculate_totals()
+#6 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): WC_Cart_Session->get_cart_from_session('')
+#7 /opt/lampp/htd
+
+2019-06-28T23:59:45+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/filters/FilterPcs.php:33
+Stack trace:
+#0 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/coode-price-calculator/PriceCalculator.php(103): FilterPCs::getPrice('1', Array)
+#1 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): PriceCalculator->custom_price_to_cart_item(Object(WC_Cart))
+#2 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /opt/lampp/htdocs/oxiumprint/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart.php(1234): do_action('woocommerce_bef...', Object(WC_Cart))
+#5 /opt/lampp/htdocs/oxiumprint/wp-content/plugins/woocommerce/includes/class-wc-cart-session.php(140): WC_Cart->calculate_totals()
+#6 /opt/lampp/htdocs/oxiumprint/wp-includes/class-wp-hook.php(286): WC_Cart_Session->get_cart_from_session('')
+#7 /opt/lampp/htd
+
