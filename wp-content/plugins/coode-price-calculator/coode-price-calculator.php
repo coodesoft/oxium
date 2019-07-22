@@ -115,7 +115,6 @@ function coode_pc_create_table_filterPcs(){
     }     
 }
 
-
 register_activation_hook( __FILE__, 'coode_pc_install' );
 function coode_pc_install(){
     
@@ -125,9 +124,21 @@ function coode_pc_install(){
     coode_pc_create_table_filterPcs();
 }
 
+/*
+add_action('admin_enqueue_scripts', 'cu_load_stylesheet' );
+function cu_load_stylesheet($hook){
+	if($hook != 'toplevel_page_global_custom_upload')
+  	return;
+	wp_enqueue_style( 'customUploadPanelCSS',  plugins_url('/css/uploadPanel.css', __FILE__) );
+}
+
+*/
+
+
 require_once 'db/Product.php';
 require_once 'db/Filter.php';
 require_once 'filters/FilterQty.php';
 require_once 'filters/FilterSqf.php';
 require_once 'filters/FilterPcs.php';
 require_once 'PriceCalculator.php';
+require_once 'admin/index.php';

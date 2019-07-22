@@ -8,6 +8,16 @@ class FilterSqf extends AbstractFilter{
         $this->source = 'coode_pc_filterSqf';
     }
     
+    public function getProperties(){
+        return [
+            'a25'  => '25', 
+            'a50'  => '50', 
+            'a100' => '100', 
+            'a150' => '150',
+            'a200' => '200'
+        ];
+    }
+    
     public function mapProperty($value){
         if ($value <= 25)
             return 'a25';
@@ -55,6 +65,7 @@ class FilterSqf extends AbstractFilter{
         return $filtredPrice * $prod;
         
     }
+ 
 }
 
 ?>

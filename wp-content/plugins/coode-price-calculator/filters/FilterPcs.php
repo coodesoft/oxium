@@ -7,6 +7,17 @@ class FilterPCs extends AbstractFilter{
     public function __construct(){
         $this->source = 'coode_pc_filterPcs';
     }
+
+    public function getProperties(){
+        return [
+            '1a3' => '1 to 3', 
+            '4a7' => '4 to 7', 
+            '8a15' => '8 to 15', 
+            '16a30' => '16 to 30', 
+            '31a50' => '31 to 50', 
+            '51a100' => '51 to 100',
+        ];
+    }    
     
     public function mapProperty($value){
         if ($value >=1 && $value <=3)
@@ -36,6 +47,7 @@ class FilterPCs extends AbstractFilter{
         
         return $filtredPrice * $data['attribute_quantity'] ;
     }
+    
 }
 
 ?>

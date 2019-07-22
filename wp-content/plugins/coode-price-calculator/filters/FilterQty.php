@@ -8,6 +8,26 @@ class FilterQty extends AbstractFilter{
         $this->source = 'coode_pc_filterQty';
     }
     
+    public function getProperties(){
+        return [
+            'a250'   => '250', 
+            'a500'   => '500', 
+            'a1000'  => '1000', 
+            'a1500'  => '1400', 
+            'a2000'  => '2000', 
+            'a2500'  => '2500',
+            'a3000'  => '3000', 
+            'a4000'  => '4000', 
+            'a5000'  => '5000', 
+            'a6000'  => '6000', 
+            'a7000'  => '7000', 
+            'a10000' => '10000', 
+            'a15000' => '15000', 
+            'a20000' => '20000', 
+            'a25000' => '25000',
+        ];
+    }
+    
     public function mapProperty($value){
         if ($value <=250)
             return 'a250';
@@ -66,5 +86,6 @@ class FilterQty extends AbstractFilter{
 
         return $filtredPrice;
     } 
+ 
 }
 ?>
