@@ -10,7 +10,7 @@ class PriceFilterView{
 
         $products = PriceFilter::getAllProducts();
         $filters = PriceFilter::getFiltersLabel();
-        
+       // echo json_encode($products);
         /*
         $args = array(
             'post_type' => 'product',

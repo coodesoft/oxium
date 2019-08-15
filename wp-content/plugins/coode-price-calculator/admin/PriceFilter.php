@@ -1,21 +1,26 @@
 <?php
 
-/* function getProductById($id){
-    
-    $args = array(
-        'post_type' => 'product',
-        'posts_per_page' => -1,
-        'p' => $id,
-    ); 
-    $query = new WP_Query($args);
-    
-    if (!$query)
-        throw new Exception('No se encontró ningun producto con el id actual', 1);
-    
-    $product = new WC_Product($query->post->ID);
+/* 
 
-    return $product;
-}
+    public function getProductById($id){
+        if (!$id)
+            throw new Exception('El id es inválido', 1);
+
+        $product = wc_get_products($id);
+        $product = !empty($product) ? $product[0] : null;
+
+        if (!$product)
+            throw new Exception('No se encontró ningun producto con el id actual', 1);
+
+        return $product;       
+    }
+    
+    static function getAllProducts(){
+        $args = array('status' => 'published');
+        return wc_get_products($args);
+    }
+    
+    
 */
 
 
@@ -49,24 +54,41 @@ class PriceFilter {
         ];  
     }
     
+
     static function getAllProducts(){
-        $args = array('status' => 'published');
-        return wc_get_products($args);
-    }
+
+        
+        $args = array(
+            'post_type' => 'product',
+            'posts_per_page' => -1,
+            'post_status'    => 'publish',
+        );
+
+        $wp_query = new WP_Query($args);
+        $posts = $wp_query->posts;
+        $products = [];
+        foreach($posts as $post){
+            $products[] = new WC_Product($post->ID);
+        }
+        return $products;
+    }    
     
     public function getProductById($id){
-        if (!$id)
-            throw new Exception('El id es inválido', 1);
 
-        $product = wc_get_products($id);
-        $product = !empty($product) ? $product[0] : null;
+        $args = array(
+            'post_type' => 'product',
+            'posts_per_page' => -1,
+            'post_status'    => 'publish',
+            'p' => $id,
+        ); 
+        $query = new WP_Query($args);
 
-        if (!$product)
+        if (!$query)
             throw new Exception('No se encontró ningun producto con el id actual', 1);
 
-        return $product;       
+        $product = new WC_Product($query->post->ID);
+        return $product;
     }
-    
     
     public function load_product_attributes(){
         $id = intval($_POST['id']);
